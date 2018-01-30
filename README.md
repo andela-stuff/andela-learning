@@ -4,7 +4,7 @@ This repository shows a collection of some of the technologies and guidelines I 
 
 Focus is placed on the following paths:
 * [Guidelines](/Guidelines)
-* [Practices and Processes](/Practices and Processes)
+* [Practices/Processes](/Practices and Processes)
 * Languages
 * Stacks
 * Tools
