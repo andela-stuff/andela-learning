@@ -8,3 +8,5 @@ Focus is placed on the following paths:
 * [Languages](/Languages)
 * [Stacks](/Stacks)
 * [Tools](/Tools)
+-----
+* [Projects](/Projects)
