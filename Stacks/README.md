@@ -1,5 +1,9 @@
 # Stacks
 
+## Legends
+&#x25ce; - in progress
+&#x1f44d; - done
+
 ## PREN
 
 Postgres + React + Express + Node
