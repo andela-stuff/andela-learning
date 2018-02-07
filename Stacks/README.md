@@ -2,9 +2,9 @@
 
 ## Legends
 &#x261a; - current  
-&#x25ce; - in progress  
-&#x1f44d; - highly recommended
-&#x2713; &#2713;
+&#x25ce; &#x221e; &#x21bb; - in progress  
+&#x1f44d; - highly recommended  
+&#x2713; &#x2713; - done
 
 ## PREN
 
