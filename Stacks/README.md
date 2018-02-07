@@ -15,7 +15,7 @@ Postgres + React + Express + Node
 ## Appendix
 
 #### React
-* https://egghead.io/courses/the-beginner-s-guide-to-reactjs
+* https://egghead.io/courses/the-beginner-s-guide-to-reactjs &#x21bb;
 * *flux*
 * *redux*
 * https://app.pluralsight.com/library/courses/jest-mastering-react-testing/table-of-contents &#x261a;
