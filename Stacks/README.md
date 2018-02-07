@@ -12,4 +12,4 @@ Postgres + React + Express + Node
 * https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 * *flux*
 * *redux*
-* *testing React*
+* https://app.pluralsight.com/library/courses/jest-mastering-react-testing/table-of-contents &#2400;
