@@ -8,7 +8,7 @@
 
 ## PREN
 
-Postgres + React + Express + Node 
+Postgres + React + Express + Node
 
 *put links to PREN*
 
